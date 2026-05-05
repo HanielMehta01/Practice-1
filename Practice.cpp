@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int a, b, c ,d, e;
+    double a, b, c ,d, e;
     cout << "Enter two of your selected numbers to find the area of rectangle: " << endl;
     cin >>a >> b;
     c=a*b;
